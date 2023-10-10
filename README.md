@@ -1,3 +1,5 @@
+Used Technologies: Java, Java Swing, SVN
+
 ## Tetris Game
 This project contains a Java-based implementation of the classic Tetris game. Tetris is an addictive game where different shapes need to be placed and lines need to be cleared to prevent stacking.
 
